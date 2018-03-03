@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/amrhassan/graphique-client-python.svg?branch=master)](https://travis-ci.org/amrhassan/graphique-client-python) [![Latest Version](https://pypip.in/version/graphique-client/badge.svg?style=flat)](https://pypi.python.org/pypi/graphique-client/) [![Supported Python versions](https://pypip.in/py_versions/graphique-client/badge.svg?style=flat)](https://pypi.python.org/pypi/graphique-client/)
+[![Build Status](https://travis-ci.org/amrhassan/graphique-client-python.svg?branch=master)](https://travis-ci.org/amrhassan/graphique-client-python) [![Latest Version](https://img.shields.io/pypi/v/graphique-client.svg?style=flat)](https://pypi.python.org/pypi/graphique-client/) [![Supported Python versions](https://img.shields.io/pypi/pyversions/graphique-client.svg?style=flat)](https://pypi.python.org/pypi/graphique-client/)
 
 Python Client for [Graphique](https://amrhassan.github.io/graphique)
 ===========================
